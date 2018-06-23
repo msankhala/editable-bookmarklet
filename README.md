@@ -6,7 +6,7 @@ You can make any web page editable if you copy and paste this code in your brows
 javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
 ```
 
-If you use chrome then chrome and copy this code then chrome may strip the leading `javascript:` for secuirty purpose.
+If you use chrome and copy this code then chrome may strip the leading `javascript:` for secuirty purpose.
 
 What if you can make a bookmarklet of this code which will toggle the page to be editable and non editable. Here is the code of that bookmarklet. 
 
