@@ -20,7 +20,7 @@ javascript:(function() {
 })()
 ```
 
-Select this code and drag and drop in your bookmark bar and give appropriate name to this bookmarklet. Let the toggle begin :)
+**Select this code and drag and drop in your bookmark bar and give appropriate name to this bookmarklet. Let the toggle begin :)**
 
 <a href="javascript:(function() { if (document.body.contentEditable === 'false' || document.body.contentEditable === 'inherit') { document.body.contentEditable = 'true'; document.designMode='on'; } else { document.body.contentEditable = 'false'; document.designMode='off'; } })()">contentEditable</a>
 
